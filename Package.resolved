@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "geos",
-        "repositoryURL": "https://github.com/GEOSwift/geos.git",
+        "repositoryURL": "https://github.com/alexrrouse/geos.git",
         "state": {
           "branch": null,
-          "revision": "4285f0903eacafd98705f047519c16e9dd09aba2",
-          "version": "4.1.0"
+          "revision": "1205375b7d47db43ed551da3399ff5f43f04969d",
+          "version": "4.1.2"
         }
       }
     ]
